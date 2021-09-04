@@ -12,6 +12,20 @@
             "visited":false,
             "favorite":false,
             "tovisit":false
+},
+            {
+            "Name":"Alte Nationalgalerie",
+            "Category":"Art",
+            "image":"BodeLogo",
+            "city": "Berlin",
+            "country":"Germany",
+            "photo":["Bode1,Bode2,Bode3,Bode4"],
+            "date":"1861",
+            "address":"Bodestraße 1-3, 10178 Berlin, Germany",
+            "director":"Ralph Gleis",
+            "visited":false,
+            "favorite":false,
+            "tovisit":false
 }
 ]
 
