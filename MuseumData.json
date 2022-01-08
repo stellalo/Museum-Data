@@ -11,7 +11,9 @@
             "director":"Bernhard Weisser & Julien Chapuis",
             "visited":false,
             "favorite":false,
-            "tovisit":false
+            "tovisit":false,
+            "introduction":"",
+            "famous":[{}]
 },
             {
             "Name":"Alte Nationalgalerie",
@@ -25,7 +27,9 @@
             "director":"Ralph Gleis",
             "visited":false,
             "favorite":false,
-            "tovisit":false
+            "tovisit":false,
+            "introduction":"",
+            "famous":[{}]
 }
 ]
 
